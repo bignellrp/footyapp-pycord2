@@ -11,7 +11,7 @@
 
 ## Installation
 
-The first step will be to clone the repo
+The first step will be to clone the repo.
 
 ```shell
 git clone https://github.com/bignellrp/footyapp-pycord2.git
